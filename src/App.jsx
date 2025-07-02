@@ -5,7 +5,7 @@ import './App.css'
 
 function App() {
   const [count, setCount] = useState(0)
-  // git test comment
+  // git test comment (# 2)
   return (
     <>
       <div>
